@@ -13,5 +13,5 @@ Data by Football Lab
 
 1. open in colab
 2. upload data /work/scrapedatayyyymmdd.csv
-3. all run
+3. Run ALL
 
