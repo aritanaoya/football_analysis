@@ -21,7 +21,7 @@ Jリーグの試合予想
 
 Data by Football Lab
 
-### How to use
+### 使い方
 
 1. ```J1Prediction.ipynb```　のopen in colabボタンを押下し、Google Colabを起動
 
