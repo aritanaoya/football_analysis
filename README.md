@@ -1,7 +1,15 @@
 # football_analysis
 
- My learning repo about football analysis
+Repository about Football
 
+サッカー関連のリポジトリです。
+主に機械学習によるJリーグの試合予想など
+
+### ファイル説明
+
+``` J1LeagueScrape.ipynb```
+
+Football Labから試合データをスクレイピング
 
 ``` J1Predict_by_AutoML.ipynb ```
 
