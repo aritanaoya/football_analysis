@@ -31,6 +31,10 @@ Data by Football Lab
 
 ![Screenshot 2022-07-04 at 15 36 21](https://user-images.githubusercontent.com/44284638/177095899-9171b8ce-317d-430d-b3f6-80f263feaa36.png)
 
+![Screenshot 2023-10-01 at 14 25 23](https://github.com/aritanaoya/football_analysis/assets/44284638/68970a07-e8c5-42ea-8e71-9a89323fe769)
+
+
+
 3. models配下にある```final_gbr_home_pred.pkl```と```final_gbr_away_pred.pkl```をuploadする
 
 
@@ -43,5 +47,8 @@ Data by Football Lab
 ![Screenshot 2022-07-04 at 15 57 10](https://user-images.githubusercontent.com/44284638/177098800-86806a33-e7f6-43ee-a643-2dd922699149.png)
 
 5. 実行結果を確認する
+
+   ![Screenshot 2023-10-01 at 14 14 12](https://github.com/aritanaoya/football_analysis/assets/44284638/547263db-43fe-4ade-b342-db4cbd69b624)
+
 
 
