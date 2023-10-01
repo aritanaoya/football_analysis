@@ -15,7 +15,7 @@ Football Labから試合データをスクレイピング
 
 Jリーグの試合をAutoML (pycaret)を用いて、訓練予想
 
-``` J1Prediction.ipynb ```
+``` Prediction.ipynb ```
 
 Jリーグの試合予想
 
@@ -23,7 +23,7 @@ Data by Football Lab
 
 ### 使い方
 
-1. ```J1Prediction.ipynb```　のopen in colabボタンを押下し、Google Colabを起動
+1. ```Prediction.ipynb```　のopen in colabボタンを押下し、Google Colabを起動
 
 
 2. colabにてタブからFileを選択
@@ -31,9 +31,9 @@ Data by Football Lab
 
 ![Screenshot 2022-07-04 at 15 36 21](https://user-images.githubusercontent.com/44284638/177095899-9171b8ce-317d-430d-b3f6-80f263feaa36.png)
 
-3. Work配下にある```gbr_model.pkl```をuploadする
+3. models配下にある```final_gbr_home_pred.pkl```と```final_gbr_away_pred.pkl```をuploadする
 
-![Screenshot 2022-07-04 at 15 39 04](https://user-images.githubusercontent.com/44284638/177096162-80831093-4345-4b7b-958b-2e39316ba50f.png)
+
 
 4. shift + Enterでコードを実行
 
@@ -44,11 +44,4 @@ Data by Football Lab
 
 5. 実行結果を確認する
 
-結果目安　※予想するための直近試合数が少ないほど結果の数値の絶対値が大きくなる傾向があります
-|Home勝ち    | 引き分け   |Away勝ち     |
-|----|----|----|
-|約0.3以上    |0.3 ~ -0.2     |-0.2以下   |
-
-
-![Screenshot 2022-07-04 at 16 03 07](https://user-images.githubusercontent.com/44284638/177099763-5232db6b-94b8-4d53-b60b-ae4ed0487eed.png)
 
